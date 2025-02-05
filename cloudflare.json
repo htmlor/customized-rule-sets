@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      'domain_keyword': [
+          'cloudflare'
+      ],
+      'domain_suffix': [
+          'cloudflare.com',
+          'cloudflarestatus.com',
+          'cloudflareinsights.com',
+          'cfl.re'
+      ]
+    }
+  ]
+}
